@@ -5,6 +5,8 @@ CursedColor is a Krita plugin that reads CPU and GPU temperatures and shifts you
 - **R** and **G** channels drift up or down based on how far your CPU/GPU temps are from a baseline you set (by default)
 - **B** channel reacts to the rate of change between CPU and GPU temp
 - Settings tab lets you remap which channels reads which source, and tune drift rate and baseline
+<img width="314" height="211" alt="image" src="https://github.com/user-attachments/assets/2746b5cc-d343-4229-8b08-a38ab2f8f5bf" />
+<img width="317" height="205" alt="image" src="https://github.com/user-attachments/assets/99792528-410e-40bc-bc6d-79913451a8ad" />
 
 ## Requirements
 
