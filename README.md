@@ -46,6 +46,9 @@ Full technical setup details and troubleshooting are in [docs/SETUP.md](docs/SET
 
 Open a document, and the docker will start reading your CPU/GPU temps and shifting your current foreground color every half second. Adjust channel sources, drift rate, and baseline temp in the Settings tab.
 
+(example of it doing its little thing)
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/de91e16e-636a-4d5e-a516-d8e39354c53e" />
+
 ## Troubleshooting 
 
 You can find these steps linked in the docker where it says "Why isn't it working?"
